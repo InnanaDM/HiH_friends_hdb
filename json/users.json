@@ -1,0 +1,31 @@
+
+
+
+    {
+        "users": [
+            {
+
+      "name": "PukeFace",
+      "species": "human",
+      "interest": ["traveling", "reading", "<strong>any</strong> food"],
+      "birthYear": 1998,
+      "photo": "images/NightWatcherMask.png"
+    },
+    {
+      "name": "CurlQueen",
+      "species": "angel",
+      "birthYear": 2008,
+      "photo": "images/9EtherMask.png"
+    },
+    {
+      "name": "Meowsalot",
+      "species": "Human",
+      "interest": ["reading", "gym"],
+      "birthYear": 2012,
+      "photo":"images/AsAboveSoBelowMask.png"
+    }
+]
+    }
+
+
+  
