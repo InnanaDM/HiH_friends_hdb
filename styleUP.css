@@ -1,0 +1,18 @@
+#leftLogo {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.page-footer {
+    /* background-color: aliceblue; */
+    margin-top: 500px;
+}
+
+.collection {
+    width: 300px;
+}
+
+/* see all friends link in user profile friends box */
+.seeAll {
+    color: gray;
+}

@@ -35,7 +35,7 @@ Handlebars.registerHelper("calculateAge", function(birthYear) {
 
     var age = new Date().getFullYear() - birthYear;
     return age;
-    // !if year born, age 0 spit html
+    // !if year born, age 0 spit
     // if(age > 0) {
         // return age + "years old";
     // } else {
