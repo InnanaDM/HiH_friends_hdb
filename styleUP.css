@@ -104,8 +104,10 @@ body {
 /* box that holds all friend info */
 .collection-item.avatar {
     width: 100%;
-    height: 190px;
+    height: 320px;
     background-color: white;
+    padding: 5px;
+
     
     /* height: 1700px; */
 }
@@ -115,9 +117,11 @@ body {
 }
 
 img.FP1.circle {
-    width: 100px;
+    position: relative;
+    left: -55px;
+    /* width: 200px;
     height: 300px;
-    background: lawngreen;
+    background: lawngreen; */
 }
 
 /* text above friends box 48 */
@@ -132,24 +136,26 @@ img.FP1.circle {
     font-size: 35px;
     font-weight: 700;
     text-align: center;
+    position: relative;
+    left: -44px;
 }
 
-/* box that holds friend name and info */
+/* background blue box that holds friend name and info */
 .wrapperUFB {
-    height: 300px;
+    height: 320px;
     background-color: aliceblue;
     border-style: solid;
     border-color: black;
     border-width: 1px;
     position: relative;
     top: -190px;
-    left: 350px;
-    width: 330px;
+    left: 250px;
+    width: 530px;
     margin: 0px;
     padding: 20px;
     
 }
-
+/* interest text in user box */
 .uFInterest {
     font-size: 30px;
     margin-top:  15px;
@@ -163,3 +169,17 @@ body {
     height: 100%;
 }
 
+.FP1.circle {
+    background-color: mediumspringgreen;
+}
+
+/* card inside friend box that holds friend info */
+.card {
+    position: initial;
+    text-align: center;
+    display: inline-block;
+    /* height: 100px; */
+    /* width: 390px;
+    height: 400px;
+    background-color: white; */
+}
