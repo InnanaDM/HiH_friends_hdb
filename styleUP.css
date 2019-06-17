@@ -3,11 +3,15 @@
     font-size: 40px;
     font-weight: 700;
 }
+html {
+    cursor:url(images/world.png),auto;
+}
 
 /* !both */
 /* ?HI HUMAN FONT */
 body {
     font-family: "Ubuntu", sans-serif;
+
   }
 /* UP */
   .userProfileBody {
@@ -20,6 +24,8 @@ body {
     margin-top: 0;
     width: 100%;
     height: 140px;
+    
+
 }
 
 /* !UP */
@@ -265,6 +271,7 @@ img.FP1circle {
 body {
     background-image: url("images/hhBack2.jpg");
     height: 100%;
+    cursor: url("images/cute-heart-1.png");
 }
 
 /* !B */
@@ -295,5 +302,6 @@ body {
 /* links on user friend page for activities */
 
 .uFLinks {
-    color: black;
+    color: palevioletred;
+    font-weight: 900;
 }
