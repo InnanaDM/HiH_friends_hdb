@@ -106,8 +106,10 @@ body {
     /* position: relative;
     top: -1299px;;
     left: 80px; */
-    width: 150px;
-    background: red;
+    width: 150px; 
+    background: #97FF8F; 
+    
+ 
     /* display: inline-block;
     vertical-align: right; */
 }
@@ -130,9 +132,9 @@ body {
 /* !UP */
 .uPCard {
     position: relative;
-    top: -750px;
-    left: -10px;
-    width: 100%
+    top: -850px;
+    left: -165px;
+    width: 100%;
 }
 
 /* !UP */
@@ -187,7 +189,8 @@ body {
 img.FP1circle {
     position: relative;
     left: -50px;
-    background-color: lawngreen; 
+    background-color: #97FF8F; 
+    
     border-radius: 50%;
     /* width: 200px;
     height: 300px;
@@ -272,7 +275,7 @@ img.FP1circle {
 body {
     background-image: url("images/hhBack2.jpg");
     height: 100%;
-    cursor: url("images/cute-heart-1.png");
+    
 }
 
 /* !B */
@@ -306,3 +309,4 @@ body {
     color: palevioletred;
     font-weight: 900;
 }
+
