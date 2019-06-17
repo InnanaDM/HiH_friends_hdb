@@ -1,16 +1,20 @@
+/* null */
 #leftLogo {
     font-size: 40px;
     font-weight: 700;
 }
 
+/* !both */
 /* ?HI HUMAN FONT */
 body {
     font-family: "Ubuntu", sans-serif;
   }
-
+/* UP */
   .userProfileBody {
     height: 700px;
   }
+
+  /* !B */
 .page-footer {
     /* background-color: aliceblue; */
     margin-top: 0;
@@ -18,11 +22,13 @@ body {
     height: 140px;
 }
 
+/* !UP */
 .collectionUP {
     width: 500px;
     
 }
 
+/*! UP */
 .collection-item.avatarUP {
     width: 300px;
     height: 380px;
@@ -32,17 +38,21 @@ body {
     
     /* height: 1700px; */
 }
+
+/*! UP */
 /* see all friends link in user profile friends box */
 .seeAll {
     color: gray;
 }
 
+/* !UP */
 /* your friends text above friends box */ 
 .yourFriends {
     font-size: 20px;
     font-weight: 800;
 }
 
+/*! UP */
 /* people icon above friends box */
 .small.material-icons {
     font-size: 40px;
@@ -52,6 +62,8 @@ body {
         left: 5px;
       
 }
+
+/*! UP *
 /* top left hih icon */
 .brand-logo {
 
@@ -59,17 +71,20 @@ body {
     margin-left: 15px;
 }
 
+/* !B */
 .nav-title {
     font-weight: 700;
     margin-left: 15px;
 }
 
+/* !UP */
 /* div holds entire friends box + friends text */
 .friendsBox {
     margin-top: 20px;
     margin-left: 300px;
 }
 
+/*! UP  */
 .circle.responsive-imgUP {
     position: relative;
     top: -999px;
@@ -79,6 +94,8 @@ body {
     /* display: inline-block;
     vertical-align: right; */
 }
+
+/* !UP */
 .circle.responsive-imgUPF {
     /* position: relative;
     top: -1299px;;
@@ -89,6 +106,7 @@ body {
     vertical-align: right; */
 }
 
+/* !UP */
 .curlQueen {
     position: relative;
     top: -460px;
@@ -103,13 +121,14 @@ body {
 
 }
 
+/* !UP */
 .uPCard {
     position: relative;
     top: -850px;
     left: -200px;
 }
 
-
+/* !UP */
 .circleUP {
     width: 100px;
 }
@@ -130,6 +149,7 @@ body {
     height: 300px;
 } */
 /* box that holds all friend info */
+/* !FU */
 .collection-item.avatar {
     width: 100%;
     height: 380px;
@@ -139,11 +159,23 @@ body {
     
     /* height: 1700px; */
 }
+/* !UP */
+.collection-item.avatarUP {
+    width: 50%;
+    height: 340px;
+    background-color: white;
+    padding: 5px;
 
+    
+    /* height: 1700px; */
+}
+
+/* !B */
 .circle {
     width: 700px;
 }
 
+/* !FU */
 /* user friend image */
 img.FP1circle {
     position: relative;
@@ -155,6 +187,7 @@ img.FP1circle {
     background: lawngreen; */
 }
 
+/* !FU */
 /* text above friends box 48 */
 .userFriends {
     font-size: 70px;
@@ -162,6 +195,7 @@ img.FP1circle {
 
 }
 
+/* !FU */
 .FPtitle {
     color: red;
     font-size: 35px;
@@ -171,6 +205,7 @@ img.FP1circle {
     left: -44px;
 }
 
+/* !FU */
 /* background blue box that holds friend name and info */
 .wrapperUFB {
     height: 290px;
@@ -186,7 +221,7 @@ img.FP1circle {
     padding: 20px;
     display: block;
 }
-
+/* !FU */
 .wrapperUFB2 {
     height: 290px;
     background-color: aliceblue;
@@ -216,24 +251,23 @@ img.FP1circle {
     padding: 20px;
     display: block;
 } */
+
+
 /* interest text in user box */
-.uFInterest {
+/* .uFInterest {
     font-size: 30px;
     margin-top:  15px;
     text-decoration: underline;
     text-align: center;
     display: inline-block;
-}
-
+} */
+/* !B */
 body {
     background-image: url("images/hhBack2.jpg");
     height: 100%;
 }
 
-.FP1.circle {
-    background-color: mediumspringgreen;
-}
-
+/* !B */
 /* card inside friend box that holds friend info */
 .card {
     position: initial;
@@ -246,6 +280,7 @@ body {
     background-color: white; */
 }
 
+/* !FU */
 /* remove button */
 .rfwaves-effect.waves-light.btn-small {
 
