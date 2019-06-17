@@ -291,3 +291,9 @@ body {
     padding: 4px;
     border-radius: 3px;
 }
+
+/* links on user friend page for activities */
+
+.uFLinks {
+    color: black;
+}
