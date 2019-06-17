@@ -104,18 +104,16 @@
                                             am convenient because I require little markup to use effectively.</p>
                                     </div>
                                     <div class="card-tabs">
-                                        <ul class="tabs tabs-fixed-width">
-                                            <li class="tab"><a href="#test4">Interests</a></li>
-                                            <li class="tab"><a class="active" href="#test5">Activities</a></li>
-
-                                        </ul>
-                                    </div>
-                                    <div class="card-content grey lighten-4">
-                                        <div id="test4">Reading<br>Traveling</div>
-                                        <!-- link data activity -->
-                                        <div id="test5"><a
-                                                href="https://www.atlantatrails.com/chattahoochee-river-trails/"
-                                                target="_blank">Chattahoochee River Trails</a></div>
+                                            <ul class="tabs tabs-fixed-width">
+                                                     <li class = "tab"><a href = "#inbox">Inbox</a></li>
+                                                    <li class = "tab"><a class = "active" href = "#unread">
+                                                       Unread</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="card-content grey lighten-4">
+                                                    <div id = "inbox" class = "col s12">Inbox</div>
+                                                    <div id = "unread" class = "col s12">Unread</div>
+        
 
                                     </div>
                                 </div>
@@ -153,8 +151,13 @@
 </body>
 
 <script>
+     
     var elem = document.querySelector('.tabs'); var instance = M.Tabs.init(elem, {});
 
+  
+   
+    
+    
     console.log("script connect");
 </script>
 
