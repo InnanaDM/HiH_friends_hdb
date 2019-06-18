@@ -11,6 +11,7 @@ html {
 /* ?HI HUMAN FONT */
 body {
     font-family: "Ubuntu", sans-serif;
+    background-image: url("images/hhBack2.jpg");
 
   }
 /* UP */
@@ -271,12 +272,7 @@ img.FP1circle {
     text-align: center;
     display: inline-block;
 } */
-/* !B */
-body {
-    background-image: url("images/hhBack2.jpg");
-    height: 100%;
-    
-}
+
 
 /* !B */
 /* card inside friend box that holds friend info */
