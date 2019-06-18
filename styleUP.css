@@ -291,6 +291,13 @@ body {
     background-color: white; */
 }
 
+.card.two {
+    position: relative;
+    top: -850px;
+  
+    height: 300px;
+}
+
 /* !FU */
 /* remove button */
 .rfwaves-effect.waves-light.btn-small {
